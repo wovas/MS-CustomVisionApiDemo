@@ -1,5 +1,7 @@
 # This is the Demo project for [Microsoft's CustomVision Azure API](https://customvision.ai/).
 
+[![Build status](https://ci.appveyor.com/api/projects/status/b15jagf96mqcnh4p?svg=true)](https://ci.appveyor.com/project/wovas/ms-customvisionapidemo-o1qyy)
+
 We use smal results DataSet from [Questolog](https://questolog.com/) to train the model.
 
 After training service will be able to classify results photos based on address, city and escape quest name.
